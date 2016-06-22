@@ -2,14 +2,14 @@
   "name": "template-engine",
   "version": "0.0.1",
   "description": "A simple templating engine for writing HTML",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "mocha"
   },
   "author": "Chris Rabuse <chris@chrisrabuse.com>",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "chai": "*",
+    "mocha": "*"
   }
 }
